@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://img.freepik.com/free-vector/male-animator-sitting-computer-desk-creating-project-graphic-motion-designer-sitting-workplace-studio-developing-web-game-flat-vector-illustration-design-art-concept_74855-22510.jpg?size=626&ext=jpg"  />
 
 ###
 
