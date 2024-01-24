@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [Front-End](Front-End)
 -->
 <h1 align="center">Hi 👋, I'm Ajay Keelu</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<!-- <h3 align="center">A passionate full stack developer</h3> -->
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-keelu&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-keelu" /> </p>
 - 🔭 I’m currently working on *** Chat Application ***
 
-- 🌱 I’m currently learning ***Next.js***
+<!--- 🌱 I’m currently learning ***Next.js*** -->
 
 
 - 💬 Ask me about ***Front-End, Back-End***
