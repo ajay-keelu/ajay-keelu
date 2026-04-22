@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ajay Keelu</h1>
 <!-- <h3 align="center">A passionate full stack developer</h3> -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://dribbble.com/shots/26025421-Personal-site-hero-GIF?utm_source=Clipboard_Shot&utm_campaign=SLRNCL&utm_content=Personal%20site%20hero%20GIF&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=SLRNCL&utm_content=Personal%20site%20hero%20GIF&utm_medium=Social_Share)"/>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajay-keelu&label=Profile%20views&color=0e75b6&style=flat" alt="ajay-keelu" /> </p> -->
 <!-- - 🔭 I’m currently working on *** Chat Application *** -->
 
 <!--- 🌱 I’m currently learning ***Next.js*** -->
 
 
-- 💬 Ask me about ***Front-End, Back-End***
+<!-- - 💬 Ask me about ***Front-End, Back-End*** -->
 
 - 📫 **[deepakdeva000@gmail.com](mailto:deepakdeva000@gmail.com)**
 
