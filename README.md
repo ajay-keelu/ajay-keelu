@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <!-- - 💬 Ask me about ***Front-End, Back-End*** -->
 
-- 📫 **[deepakdeva000@gmail.com](mailto:deepakdeva000@gmail.com)**
+- 📫 **[ajaykeelu1729.com](mailto:ajaykeelu1729@gmail.com)**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
